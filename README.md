@@ -1,0 +1,1 @@
+This python program scrapes price of a product from a website and compares it.
